@@ -48,7 +48,7 @@ Run:
 - Place trained checkpoint at `models/vit_gtsrb_clahe.pth` (or update path in app).
 - python src/testing/app.py
 
-## Screenshots (placeholders)
+## Screenshots
 ![Exploded Patches](notes/one.png)
 ![Attention Heatmap](notes/two.png)
 ![PCA Projection](notes/three.png)
