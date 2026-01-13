@@ -49,11 +49,11 @@ Run:
 - python src/testing/app.py
 
 ## Screenshots (placeholders)
-![Exploded Patches](notes\one.png)
-![Attention Heatmap](notes\two.png)
-![PCA Projection](notes\three.png)
-![Grad-CAM](notes\four.png)
-![Head Diversity](notes\five.png)
+![Exploded Patches](notes/one.png)
+![Attention Heatmap](notes/two.png)
+![PCA Projection](notes/three.png)
+![Grad-CAM](notes/four.png)
+![Head Diversity](notes/five.png)
 
 
 ## License & Acknowledgements
