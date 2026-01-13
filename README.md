@@ -50,9 +50,17 @@ Run:
 
 ## Screenshots
 ![Exploded Patches](notes/one.png)
+
+
 ![Attention Heatmap](notes/two.png)
+
+
 ![PCA Projection](notes/three.png)
+
+
 ![Grad-CAM](notes/four.png)
+
+
 ![Head Diversity](notes/five.png)
 
 
